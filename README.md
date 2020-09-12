@@ -1,10 +1,10 @@
 
-# Genit Demonstration
+# Genie Demonstration
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
->THis page demonstrates the magic of the readme genie!
+>THhs page demonstrates the magic of the readme genie!
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,10 +16,10 @@
 
 ## Installation
 You will need to run
-npm inquirer
+`npm inquirer`
 
 ## Usage
-This should be run in an integrated terminal
+This should be run in an integrated terminal.
 
 ## License
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -35,7 +35,6 @@ You can use the following command to run tests
 `npm test`
 
 ## Questions
-undefined
 [Visit my profile](https://github.com/haleynmyers)
-For questions about this program or about contributing, please email me at haleynmyers@gmail.com
+For questions about this program or about contributing, please email me at [haleynmyers@gmail.com](mailto:haleynmyers@gmail.com)
 
